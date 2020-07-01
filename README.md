@@ -6,6 +6,7 @@
 - Text to Ascii-Art so you can add large and cool text to your stuff
 - Moderation Commands, (no unban and warn commands yet)
 - 3 commands that link to Reddit for memes, jokes, etc
+- Giveaway Commands
 - Gambling with Economy
 - A database so nothing gets reset on a restart/update
 - Reporting System (you will need a channel called "discord-reports" for this to work)
