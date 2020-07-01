@@ -1,7 +1,7 @@
 # Alsphe Features
 
 - You keep you level/exp in every server the bot is in and you also gain it if you do the commands or you type
-- a changeable Welcome Channel (Currently not working)
+- a changeable Welcome Channel
 - a changeable prefix if you do not like our default one
 - Text to Ascii-Art so you can add large and cool text to your stuff
 - Moderation Commands, (no unban and warn commands yet)
