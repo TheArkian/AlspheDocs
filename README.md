@@ -2,12 +2,11 @@
 
 - You keep you level/exp in every server the bot is in and you also gain it if you do the commands or you type
 - a changeable Welcome Channel
-- a changeable prefix if you do not like our default one
+- A config for almost everything we have
 - Text to Ascii-Art so you can add large and cool text to your stuff
 - Moderation Commands, (no unban and warn commands yet)
 - 3 commands that link to Reddit for memes, jokes, etc
 - Giveaway Commands
-- Gambling with Economy
 - A database so nothing gets reset on a restart/update
 - Reporting System (you will need a channel called "discord-reports" for this to work)
 - Logging system for all our Moderation Commands
