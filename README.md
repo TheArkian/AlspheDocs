@@ -1,17 +1,44 @@
-# Alsphe Features
+**__FEATURE LIST__**
 
-- You keep you level/exp in every server the bot is in and you also gain it if you do the commands or you type
-- a changeable Welcome Channel
-- A config for almost everything we have
-- Text to Ascii-Art so you can add large and cool text to your stuff
-- Moderation Commands, (no unban and warn commands yet)
-- 3 commands that link to Reddit for memes, jokes, etc
-- Giveaway Commands
-- Suggestions!
-- A database so nothing gets reset on a restart/update
-- Reporting System
-- Logging system for all our Moderation Commands
-- Translation from Language to language
+- Ascii-Art Command - Convert Text to Ascii-Art
+
+- Ban, Kick, Mute, Unmute and clear Commands - Make your server more secure
+
+- Calculator Command - Work out math questions on the spot
+
+- Config Command - Edit your server 
+
+- Reddit Commands (cute, fact, and meme) - Displays reddit posts based on the command you choose
+
+- Giveaway Commands (gstart, gend, and reroll) - Setup giveaways, quick and easy
+
+- Help Command - Contains all the commands
+
+- LMGTFY Command - Find out anything the internet has to offer, quickly
+
+- A profile Command - See your level on every server the bot is on (the level stays the same and updates on every server you go to)
+
+- Password Generator - Grab a password quick and easy
+
+- Report Command - Report something to staff, or other
+
+- Roast Command - Members can enjoy themselves
+
+- Rock Paper Scissors Command - Just incase you want to practice
+
+- Say Command - Make the bot say what you want for like an announcement
+
+- Server Info Command - Find out most things about your server
+
+- Snipe Command - Find the most recently deleted message in that channel
+
+- Suggest Command - Suggest stuff to your server
+
+- Translate Command - Quickly translate messages to a different language
+
+- Uptime Command - Find out how long the bot has been running for
+
+- User Info Command - Find out everything about yourself or another user
 
 - If you are not happy about the bot having "Administrator", remove it from the bot's permission list, but if you want Moderation commands to work you will have to give him the right stuff to do all those things, e.g. muting requires the "Manage Roles" Permission and Banning requires the "Ban Members" permission, if you have any questions join our Discord here: https://discord.gg/ZWDMATr
 
