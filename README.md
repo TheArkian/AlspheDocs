@@ -2,13 +2,15 @@
 
 - Ascii-Art Command - Convert Text to Ascii-Art
 
+- Avatar Command - Grab your own or someone else's profile picture
+
 - Ban, Kick, Mute, Unmute and clear Commands - Make your server more secure
 
 - Calculator Command - Work out math questions on the spot
 
 - Config Command - Edit your server 
 
-- Reddit Commands (cute, fact, and meme) - Displays reddit posts based on the command you choose
+- Reddit Commands (cute, fact, meme, joke) - Displays reddit posts based on the command you choose
 
 - Giveaway Commands (gstart, gend, and reroll) - Setup giveaways, quick and easy
 
