@@ -48,6 +48,12 @@
 
 - User Info Command - Find out everything about yourself or another user
 
+- Auto-Moderation - Automatically deletes Discord Server Invites
+
+- Leveling System - Keep your levels in every server you enter so you can gain the most and be ahead of all your friends
+
+- Logging System - Log all of our Moderation commands into your log channel and log every deleted message
+
 - If you are not happy about the bot having "Administrator", remove it from the bot's permission list, but if you want Moderation commands to work you will have to give him the right stuff to do all those things, e.g. muting requires the "Manage Roles" Permission and Banning requires the "Ban Members" permission, if you have any questions join our Discord here: https://discord.gg/ZWDMATr
 
 - We hope you enjoy Alsphe, if you haven't added it yet here if the Invite Link: https://discord.com/oauth2/authorize?client_id=725337225268691095&scope=bot&permissions=1544023295 
