@@ -6,11 +6,17 @@
 
 - Ban, Kick, Mute, Unmute and clear Commands - Make your server more secure
 
+- Mutes Command - Check how many times a user has been muted
+
 - Calculator Command - Work out math questions on the spot
+
+- Coin Flip Command - To quickly flip a coin
 
 - Config Command - Edit your server 
 
 - Reddit Commands (cute, fact, meme, joke) - Displays reddit posts based on the command you choose
+
+- Role Command - Add/Remove roles from users quickly
 
 - Giveaway Commands (gstart, gend, and reroll) - Setup giveaways, quick and easy
 
@@ -41,8 +47,6 @@
 - Uptime Command - Find out how long the bot has been running for
 
 - User Info Command - Find out everything about yourself or another user
-
-- Coin Flip Command - To quickly flip a coin
 
 - If you are not happy about the bot having "Administrator", remove it from the bot's permission list, but if you want Moderation commands to work you will have to give him the right stuff to do all those things, e.g. muting requires the "Manage Roles" Permission and Banning requires the "Ban Members" permission, if you have any questions join our Discord here: https://discord.gg/ZWDMATr
 
