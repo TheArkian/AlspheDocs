@@ -22,7 +22,11 @@
 
 - Help Command - Contains all the commands
 
+- Kill command - Kill yourself/your friends
+
 - LMGTFY Command - Find out anything the internet has to offer, quickly
+
+- Number Generator Command - Quickly grab a number between x and y
 
 - A profile Command - See your level on every server the bot is on (the level stays the same and updates on every server you go to)
 
