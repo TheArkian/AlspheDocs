@@ -16,6 +16,10 @@
 
 - Reddit Commands (cute, fact, meme, joke) - Displays reddit posts based on the command you choose
 
+- Resize Command - Quickly resize an image
+
+- Reminder Command - Make a quick reminder!
+
 - Role Command - Add/Remove roles from users quickly
 
 - Giveaway Commands (gstart, gend, and reroll) - Setup giveaways, quick and easy
