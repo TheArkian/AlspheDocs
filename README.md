@@ -16,7 +16,7 @@
 
 - Config Command - Edit your server 
 
-- Reddit Commands (cute, fact, meme, joke) - Displays reddit posts based on the command you choose
+- Reddit Commands (cute, fact, meme, joke, food) - Displays reddit posts based on the command you choose
 
 - Resize Command - Quickly resize an image
 
@@ -41,6 +41,8 @@
 - A profile Command - See your level on every server the bot is on (the level stays the same and updates on every server you go to)
 
 - Password Generator - Grab a password quick and easy
+
+- Permissions Command - Work out what permissions you need to run a permission based command
 
 - Report Command - Report something to staff, or other
 
