@@ -4,7 +4,7 @@
 
 - Avatar Command - Grab your own or someone else's profile picture
 
-- Ban, Kick, Mute, Unmute and clear Commands - Make your server more secure
+- Ban, Kick, Mute, Mutes, Unmute, Warn, and warnings commands - Make your server more secure
 
 - Mutes Command - Check how many times a user has been muted
 
@@ -15,6 +15,8 @@
 - Color Command - Find out Hex Codes, RGB, and names of a color
 
 - Config Command - Edit your server 
+
+- Emojify Command - Change text into emojis
 
 - Reddit Commands (cute, fact, meme, joke, food) - Displays reddit posts based on the command you choose
 
