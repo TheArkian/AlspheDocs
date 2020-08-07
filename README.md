@@ -16,6 +16,8 @@
 
 - Config Command - Edit your server 
 
+- Emoji Command - Quickly grab the image/gif of a custom emoji
+
 - Emojify Command - Change text into emojis
 
 - Reddit Commands (cute, fact, meme, joke, food) - Displays reddit posts based on the command you choose
