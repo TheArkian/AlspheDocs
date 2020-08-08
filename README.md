@@ -54,6 +54,8 @@
 
 - Rock Paper Scissors Command - Just incase you want to practice
 
+- Quote Command - Quickly quote a message inside of the channel you are in
+
 - Say Command - Make the bot say what you want for like an announcement
 
 - Server Info Command - Find out most things about your server
