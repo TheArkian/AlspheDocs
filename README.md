@@ -16,6 +16,8 @@
 
 - Config Command - Edit your server 
 
+- Create Emoji Command - Quickly add an emoji from a different server to your server
+
 - Emoji Command - Quickly grab the image/gif of a custom emoji
 
 - Emojify Command - Change text into emojis
