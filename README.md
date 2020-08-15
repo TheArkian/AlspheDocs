@@ -84,4 +84,6 @@
 
 - We hope you enjoy Alsphe, if you haven't added it yet here if the Invite Link: https://discord.com/oauth2/authorize?client_id=725337225268691095&scope=bot&permissions=1544023295 
 
+**Current Help Command**
+
 ![Current Help Command](https://github.com/TheArkian/AlspheDocs/blob/master/help1.png?raw=true)
