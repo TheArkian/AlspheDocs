@@ -86,4 +86,4 @@
 
 **Current Help Command**
 
-![Current Help Command](https://github.com/TheArkian/AlspheDocs/blob/master/help1.png?raw=true) 
+![Current Help Command](https://github.com/TheArkian/AlspheDocs/blob/master/Alsphe%20Bot/help1.png?raw=true) 
